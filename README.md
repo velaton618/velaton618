@@ -35,7 +35,6 @@
 
 
 ### My Setup
-![MacMiniM4](https://img.shields.io/badge/-Mac%20Mini%20M4-000?&logo=apple)
 ![MacbookAirM2](https://img.shields.io/badge/-Macbook%20Air%20M2-000?&logo=apple)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-000?&logo=neovim)
 ![OhMyZsh](https://img.shields.io/badge/-OhMyZsh-000?&logo=zsh)
